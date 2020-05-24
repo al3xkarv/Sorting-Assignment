@@ -11,7 +11,7 @@ From terminal, inside src folder run ```make```
 Program can be run as follows: ```./mysort -f inputfile -h|q columnid [-h|q columnid] firstinputs```
 
 * ``` -f inputfile``` is the binary file with the data
-* columnid``` is the column in which the sort will be done on 
+*```columnid``` is the column in which the sort will be done on 
 * the ```-q``` or ```-h``` flag means that the sorters will either use Quick-Sort or Heap-Sort for their sorting process  
 * ```firstinputs``` will have to be a number repressenting the first inputs of the binary file that the sort will take place
 
