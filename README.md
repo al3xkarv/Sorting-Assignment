@@ -2,7 +2,7 @@
 Multiple sorts running at the same time as separate processes, utilizing fork and exec. Completed according to requirement for Operating Systems course.
 
 ## Installation 
-From terminal, inside src folder run ```"make```
+From terminal, inside src folder run ```make```
 
 ## Explanatory Diagram
 ![diagram](img/diagram.png)
