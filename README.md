@@ -3,8 +3,10 @@ Multiple sorts running at the same time as separate processes, utilizing fork an
 
 ## Installation 
 From terminal, inside src folder run "make".
+
 ## Explanatory Diagram
 ![diagram](img/diagram.png)
+
 ## Run Parameters
 Program can be run as follows: ./mysort -f inputfile -h|q columnid [-h|q columnid] firstinputs
 
